@@ -1,0 +1,14 @@
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\bin\Debug\net9.0\Variables.exe
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\bin\Debug\net9.0\Variables.deps.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\bin\Debug\net9.0\Variables.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\bin\Debug\net9.0\Variables.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\refint\Variables.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\ref\Variables.dll
