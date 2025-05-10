@@ -12,3 +12,4 @@ E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\ne
 E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.pdb
 E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
 E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\ref\Variables.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Variables\obj\Debug\net9.0\Variables.sourcelink.json
