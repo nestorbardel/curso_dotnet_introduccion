@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Variables")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SwitchCase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+827257dc6987f899d7d1094e99821c4c4a62c3df")]
-[assembly: System.Reflection.AssemblyProductAttribute("Variables")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Variables")]
+[assembly: System.Reflection.AssemblyProductAttribute("SwitchCase")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SwitchCase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

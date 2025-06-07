@@ -1,0 +1,15 @@
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\bin\Debug\net9.0\SwitchCase.exe
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\bin\Debug\net9.0\SwitchCase.deps.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\bin\Debug\net9.0\SwitchCase.runtimeconfig.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\bin\Debug\net9.0\SwitchCase.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\bin\Debug\net9.0\SwitchCase.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.AssemblyInfoInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.AssemblyInfo.cs
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.csproj.CoreCompileInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.sourcelink.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\refint\SwitchCase.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\SwitchCase.genruntimeconfig.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\SwitchCase\obj\Debug\net9.0\ref\SwitchCase.dll

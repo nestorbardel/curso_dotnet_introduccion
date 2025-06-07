@@ -1,0 +1,15 @@
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\bin\Debug\net9.0\Funciones.exe
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\bin\Debug\net9.0\Funciones.deps.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\bin\Debug\net9.0\Funciones.runtimeconfig.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\bin\Debug\net9.0\Funciones.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\bin\Debug\net9.0\Funciones.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.AssemblyInfoInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.AssemblyInfo.cs
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.csproj.CoreCompileInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.sourcelink.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\refint\Funciones.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\Funciones.genruntimeconfig.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Funciones\obj\Debug\net9.0\ref\Funciones.dll
