@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SentenciaIfElseIf")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("For")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71fd569446246293e55985bd719e26bc9fc26f8e")]
-[assembly: System.Reflection.AssemblyProductAttribute("SentenciaIfElseIf")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SentenciaIfElseIf")]
+[assembly: System.Reflection.AssemblyProductAttribute("For")]
+[assembly: System.Reflection.AssemblyTitleAttribute("For")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
