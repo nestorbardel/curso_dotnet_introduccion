@@ -1,0 +1,15 @@
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\bin\Debug\net9.0\Propiedades.exe
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\bin\Debug\net9.0\Propiedades.deps.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\bin\Debug\net9.0\Propiedades.runtimeconfig.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\bin\Debug\net9.0\Propiedades.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\bin\Debug\net9.0\Propiedades.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.AssemblyInfoInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.AssemblyInfo.cs
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.csproj.CoreCompileInputs.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.sourcelink.json
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\refint\Propiedades.dll
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.pdb
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\Propiedades.genruntimeconfig.cache
+E:\cursos\dotnet\deLeon\Curso-1-c#\introduccion\Variables\Propiedades\obj\Debug\net9.0\ref\Propiedades.dll
