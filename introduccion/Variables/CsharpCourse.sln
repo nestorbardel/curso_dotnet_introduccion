@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesYObjetos", "ClasesYOb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propiedades", "Propiedades\Propiedades.csproj", "{9AF722F7-F461-48AE-B3D1-18CD6DD6F06E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia\Herencia.csproj", "{682459D3-DD7D-43E7-9F99-B4FBE468B71E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,6 +152,18 @@ Global
 		{9AF722F7-F461-48AE-B3D1-18CD6DD6F06E}.Release|x64.Build.0 = Release|Any CPU
 		{9AF722F7-F461-48AE-B3D1-18CD6DD6F06E}.Release|x86.ActiveCfg = Release|Any CPU
 		{9AF722F7-F461-48AE-B3D1-18CD6DD6F06E}.Release|x86.Build.0 = Release|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Debug|x64.Build.0 = Debug|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Debug|x86.Build.0 = Debug|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Release|x64.ActiveCfg = Release|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Release|x64.Build.0 = Release|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Release|x86.ActiveCfg = Release|Any CPU
+		{682459D3-DD7D-43E7-9F99-B4FBE468B71E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
